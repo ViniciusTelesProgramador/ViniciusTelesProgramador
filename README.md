@@ -3,7 +3,7 @@
 learn to program
 get knowledge
 
-- 🌱 I’m currently learning ...Program in python, java and php
+- 🌱 I’m currently learning ...Program in python, java , html/css, php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
