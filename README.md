@@ -1,4 +1,6 @@
-![octocat-1718650964195](https://github.com/ViniciusTelesProgramador/ViniciusTelesProgramador/assets/106317643/3e339b5f-e7bb-44c6-8476-4da620eaefa7)## 👋 Hi, I’m @ViniciusTelesProgramador
+![octocat-1718650964195](https://github.com/ViniciusTelesProgramador/ViniciusTelesProgramador/assets/106317643/3e339b5f-e7bb-44c6-8476-4da620eaefa7)
+
+## 👋 Hi, I’m @ViniciusTelesProgramador
 
 ### 👀 I’m interested in 
 - Learning to program
@@ -29,6 +31,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTelesProgramador&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusTelesProgramador&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ViniciusTelesProgramador&color=blueviolet)
