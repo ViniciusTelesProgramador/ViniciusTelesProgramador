@@ -1,4 +1,3 @@
-![octocat-1718650964195](https://github.com/ViniciusTelesProgramador/ViniciusTelesProgramador/assets/106317643/3e339b5f-e7bb-44c6-8476-4da620eaefa7)
 
 ## 👋 Hi, I’m @ViniciusTelesProgramador
 
